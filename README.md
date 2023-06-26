@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Web Back-end
+
+
+
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ekgns118)](https://solved.ac/ekgns118)
+
+
+
 <!--
 **devpigKing/devpigKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
