@@ -29,7 +29,9 @@ Web-BackEnd
 ### language
 
 Java(main)
+<br>
 Python
+<br>
 C
 
 ---
@@ -37,6 +39,7 @@ C
 ### DB
 
 MySql
+<br>
 Oracle
 
 --- 
@@ -50,6 +53,7 @@ AWS
 ### Infra
 
 Docker
+<br>
 Kubernetess
 
 
