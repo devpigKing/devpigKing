@@ -12,6 +12,7 @@ Computer Science
 
 ### Education
 
+LikLion - StartUp School 3th(2022.06 ~ 09)
 Addinedu - 자바 백엔드 교육과정(2023.06 ~ 2023.10)
 
 ---
