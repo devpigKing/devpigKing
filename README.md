@@ -1,5 +1,7 @@
 ### Hi there I'm devpigKing
 
+I majored in computer engineering, studied web development, and am currently studying cloud engineering.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Major
